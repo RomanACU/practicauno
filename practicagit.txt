@@ -1,1 +1,2 @@
 contenido nuevo en git 
+comprobando las diferencias con diff
