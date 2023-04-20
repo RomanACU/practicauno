@@ -44,4 +44,5 @@ respuesta = texto.trimStart();
 respuesta = texto.trimEnd();
 
 
+
 console.log(respuesta);

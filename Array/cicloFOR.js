@@ -1,9 +1,9 @@
 //Crear arreglo de numeros con "push" utilizando un ciclo FOR
-let Numeros=[];
+let Numeros = [];
 
-for(i=0; i<=25; i++){
-   Numeros.push(i);
-};
+for (i = 0; i <= 25; i++) {
+  Numeros.push(i);
+}
 
 console.log(Numeros);
-console.log(Numeros.splice(3,5));
+console.log(Numeros.splice(3, 5));
